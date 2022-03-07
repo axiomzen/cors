@@ -110,6 +110,8 @@ See [API documentation](http://godoc.org/github.com/axiomzen/cors/v2) for more i
     BenchmarkParse…Single     5000000      290 ns/op     32 B/op    3 allocs/op
     BenchmarkParse…Normalized 2000000      776 ns/op    160 B/op    6 allocs/op
 
-## Licenses
+## Proprietary and Confidential
 
-All source code is licensed under the [MIT License](https://raw.github.com/axiomzen/cors/v2/master/LICENSE).
+Copyright (C) Dapper Labs, Inc., and its Affiliates. Proprietary and Confidential
+
+All code in this directory is governed by an agreement between Dapper Labs and Genies under the [Limited Use Agreement](README_PROPRIETARY_CONFIDENTIAL.md), and not for use or distribution to any third-party. Code in this directory may not be used by any other person, organization or company without prior written consent from Dapper Labs. For questions, please email ip@dapperlabs.com.
